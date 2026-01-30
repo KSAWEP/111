@@ -11,7 +11,7 @@ const CONFIG = {
     botToken: 'MTQ2Njc0OTI3NDk1OTExODM3OQ.GsIN8E.ipo5fnxKHbs8btxG6bQ_zkbL9e8P0uVQXzMAjY',
     guildId: '1316069023179604040',
     roleId: '1466738121986277407',
-    redirectUri: process.env.REDIRECT_URI || 'https://stormy-town-production.up.railway.app/callback'
+    redirectUri: process.env.REDIRECT_URI || 'https://111-production-6d62.up.railway.app/callback'
 };
 
 // Serve static files
